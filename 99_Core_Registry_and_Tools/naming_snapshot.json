@@ -1,0 +1,20 @@
+[
+  {
+    "original": "RC_naming_guideline.md",
+    "updated": "Consent_naming_guideline.md",
+    "change_date": "2025-03-31",
+    "reason": "為統一Consent類命名"
+  },
+  {
+    "original": "RC_Landscape_Review_20250331.md",
+    "updated": "保持不變",
+    "change_date": "2025-03-31",
+    "reason": "屬於RC流程核心構件，不需統一"
+  },
+  {
+    "original": "RC_Flowchart_20250331.md",
+    "updated": "EPA_BC_Flowchart_310325.md",
+    "change_date": "2025-03-31",
+    "reason": "區分RC與EPA_BC Application階段"
+  }
+]
